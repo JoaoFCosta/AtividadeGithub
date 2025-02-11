@@ -1,4 +1,4 @@
-﻿namespace AtividadeGithub.Model
+﻿namespace AtividadeGithub.Models
 {
     public class Cliente
     {
